@@ -1,0 +1,5 @@
+projectKey=com.techm.training:test-maven-project-12jan2017
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.techm.training:test-maven-project-12jan2017
+ceTaskId=AVmRUvSGhgr1zzynoiG1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVmRUvSGhgr1zzynoiG1
